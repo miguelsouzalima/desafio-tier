@@ -31,3 +31,7 @@ for (let repetiçao = 0; repetiçao < heroi.length; repetiçao ++)
     {tier ="Imortal"}
  else if (xpHeroi >= 10001)
   {tier ="Radiante"}
+// ----- ~~~*Mensagem de Saida* ----- ~~~*
+console.log("O Heroi " + nomeHeroi + ", Está no Tier: " + tier)
+
+}
